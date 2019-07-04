@@ -1,1 +1,1 @@
-Ceci est un nouveau fichier de texte
+Ceci est un nouveau fichier de texte qui peut être modifié comme ceci

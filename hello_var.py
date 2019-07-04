@@ -1,3 +1,3 @@
 a="Hello "
-b="world !"
+b="all !"
 print(a+b)
